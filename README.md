@@ -2,7 +2,7 @@
   <img src="https://github.com/jvlessa/Typescript--First-Look/blob/master/images/logo-new.png" width="450">
 </p>
 
-- TypeScript was created to be a typed superset of JavaScript (We write in TS files and it compiles to JS files).
+TypeScript was created to be a typed superset of JavaScript (We write in TS files and it compiles to JS files).
 
 ## What are the advantages of using TypeScript?
 - We can work with classes, interfaces, etc;
