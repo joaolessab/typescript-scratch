@@ -12,3 +12,6 @@ TypeScript was created to be a typed superset of JavaScript (We write in TS file
 #### It's simple: 
 #### 1 - Download and install [Node JS](https://nodejs.org/en/download/);
 #### 2 - Download the latest version of the [Visual Studio Code](https://code.visualstudio.com/download) text editor;
+
+#### Check out their official [documentation](https://www.typescriptlang.org/docs/home.html);
+#### Starting some basic tutorials [here](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
