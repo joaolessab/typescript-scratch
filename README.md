@@ -10,4 +10,5 @@ TypeScript was created to be a typed superset of JavaScript (We write in TS file
 
 ## How do I run your project, João? 
 #### It's simple: 
-#### 1 - Download the latest version of the [Visual Studio Code](https://code.visualstudio.com/download) text editor;
+#### 1 - Download and install [Node JS](https://nodejs.org/en/download/)
+#### 2 - Download the latest version of the [Visual Studio Code](https://code.visualstudio.com/download) text editor;
