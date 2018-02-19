@@ -11,7 +11,7 @@ TypeScript was created to be a typed superset of JavaScript (We write in TS file
 ## How do I run your project or start a new one, João? 
 #### It's simple: 
 #### 1 - Download and install [Node JS](https://nodejs.org/en/download/);
-#### 2 - Run in your console:
+#### 2 - Run the command in your console:
 ```
 npm install -g typescript
 ```
