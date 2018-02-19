@@ -25,3 +25,6 @@ npm install -g typescript
 ```
 tsc yourfilename.ts
 ```
+
+## Videos used for references
+[Click to watch](https://www.youtube.com/playlist?list=PLTMuY7ptzFIS4usDcmCM_ukdIsmeuXNzD)
